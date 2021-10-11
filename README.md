@@ -59,10 +59,13 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=arp-spoofing&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/arp-spoofing)
+
 </p>
 
 <p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="#"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 🌊 Streak stats
@@ -70,7 +73,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Readme Streak Stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=antoinechauvn&theme=prussian&hide_border=true"/>
+    <img title="Readme Streak Stats" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=antoinechauvn&theme=prussian&hide_border=true"/>
   </a>
 </p>
 
