@@ -155,4 +155,4 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antoinechauvn&bg_color=172f45&color=399fff&line=a3c2e1&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="activity graph" src="https://activity-graph.herokuapp.com/graph?username=antoinechauvn&bg_color=172f45&color=399fff&line=a3c2e1&point=FFFFFF&hide_border=true" /></a>
