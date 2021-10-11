@@ -12,13 +12,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Linkedin" title="Youtube" src="https://svgshare.com/i/b48.svg"/></a>
+  <a href="#"><img width="32px" alt="Linkedin" title="Youtube" src="https://svgshare.com/i/b48.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://svgshare.com/i/b3o.svg"/></a>
+  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://svgshare.com/i/b3o.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="32px" src="https://svgshare.com/i/b3w.svg"/></a>
+  <a href="#" alt="Discord"><img width="32px" src="https://svgshare.com/i/b3w.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Instagram"><img width="32px" src="https://svgshare.com/i/b3v.svg"/></a>
+  <a href="#" alt="Instagram"><img width="32px" src="https://svgshare.com/i/b3v.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
