@@ -11,7 +11,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%234cbcf4&size=22&center=true&vCenter=true&lines=French+Student;Network+and+Telecommunications;Python+Developper;Cybersecurity"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%234cbcf4&size=22&center=true&vCenter=true&lines=French+Student;Network+and+Telecommunications;Python+Developer;Cybersecurity"></a>
 </p>
 
 <!-- Social icons section -->
