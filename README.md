@@ -16,13 +16,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="#"><img width="32px" alt="Linkedin" title="Youtube" src="https://svgshare.com/i/b48.svg"/></a>
+  <a href="https://www.linkedin.com/in/antoine-chauvin-82337b212/"><img width="32px" alt="Linkedin" title="Youtube" src="https://svgshare.com/i/b48.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://svgshare.com/i/b3o.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="https://svgshare.com/i/b3w.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Instagram"><img width="32px" src="https://svgshare.com/i/b3v.svg"/></a>
+  <a href="https://www.instagram.com/antoinechauvn/" alt="Instagram"><img width="32px" src="https://svgshare.com/i/b3v.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
