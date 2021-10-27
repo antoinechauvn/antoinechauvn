@@ -14,6 +14,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%234cbcf4&size=22&center=true&vCenter=true&lines=French+Student;Network+and+Telecommunications;Python+Developer;Cybersecurity"></a>
 </p>
 
+<p align="center"><img alt="banner" title="Banner" src="https://i.imgur.com/DintgHk.png"/></p>
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-chauvin-82337b212/"><img width="32px" alt="Linkedin" title="Youtube" src="https://svgshare.com/i/b48.svg"/></a>
