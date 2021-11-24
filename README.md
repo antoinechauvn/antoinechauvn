@@ -70,6 +70,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=IEEE-802.11&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/IEEE-802.11)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=pypi-maliciouspackage-review&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/pypi-maliciouspackage-review)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=walrus-operator&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/walrus-operator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=asyncio&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/asyncio)
   
 </p>
 
