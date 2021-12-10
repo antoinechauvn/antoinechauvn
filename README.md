@@ -71,7 +71,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=pypi-maliciouspackage-review&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/pypi-maliciouspackage-review)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=walrus-operator&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/walrus-operator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=asyncio&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/asyncio)
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoinechauvn&repo=dijkstra-algorithm&theme=prussian&hide_border=true)](https://github.com/antoinechauvn/dijkstra-algorithm)
 </p>
 
 <p align="left">
