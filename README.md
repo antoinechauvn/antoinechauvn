@@ -14,7 +14,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%234cbcf4&size=22&center=true&vCenter=true&lines=French+Student;Network+and+Telecommunications;Python+Developer;Cybersecurity"></a>
 </p>
 
-<p align="center"><img alt="banner" title="Banner" src="https://i.imgur.com/DintgHk.png"/></p>
+<p align="center"><br>
+  <a href="https://github.com/KanekiWeb">
+    <img src="https://lanyard-profile-readme.vercel.app/api/602994882927132731"/>
+     </a>
+</p>
 
 
 <!-- Social icons section -->
