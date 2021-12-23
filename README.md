@@ -8,3 +8,4 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83721477/147166104-6003b5aa-52b8-444b-93d9-9fb6389ca19e.png" width="50%" height="50%">
 </div>
+<img src="https://activity-graph.herokuapp.com/graph?username=antoinechauvn&bg_color=1A1C1F&color=399fff&line=a3c2e1&point=FFFFFF&hide_border=true">
