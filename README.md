@@ -1,6 +1,6 @@
 <div align="left">
     <img src="https://lanyard-profile-readme.vercel.app/api/602994882927132731"/>
-    <img src="https://user-images.githubusercontent.com/83721477/147168078-2b6b5dc4-a90c-40c7-996d-664f74a74965.png"/>
+    <img src="https://user-images.githubusercontent.com/83721477/147168382-0d096459-d73f-41c6-bbcd-bff05299bfc7.png"/>
 </div>
 
 <div>
