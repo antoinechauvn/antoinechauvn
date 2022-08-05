@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="https://lanyard-profile-readme.vercel.app/api/602994882927132731?idleMessage=Python Developer, DUT Networks and Telecommunications Trying to get into IMT North Europe&hideDiscrim=true"/><img src="https://user-images.githubusercontent.com/83721477/147168530-20321e83-ba24-4794-929d-12d2c8746acf.png"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/602994882927132731?idleMessage=Python Developer, DUT Networks and Telecommunications.Now into IMT North Europe🥰&hideDiscrim=true"/><img src="https://user-images.githubusercontent.com/83721477/147168530-20321e83-ba24-4794-929d-12d2c8746acf.png"/>
 </div>
 
 <div>
