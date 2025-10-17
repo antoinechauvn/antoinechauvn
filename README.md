@@ -1,6 +1,5 @@
 <div align="left">
     <img src="https://lanyard-profile-readme.vercel.app/api/602994882927132731?hideDiscrim=true&idleMessage=Now%20at%20IMT❤️"/>
-    <img src="https://user-images.githubusercontent.com/83721477/147168530-20321e83-ba24-4794-929d-12d2c8746acf.png"/>
 </div>
 
 <div>
